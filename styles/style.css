@@ -23,12 +23,22 @@ text-decoration: none;
 	text-align: center;
 }
 
+/* wrappers */
+
 .wrapper_1 {
 	width: 1000px;
 margin: 0 auto;
 }
 
+.wrapper_2 {
+	width: 834px;
+margin: 0 auto;
+}
+
 /* start header */
+
+
+
 header {
 	background-color: #69d1e7;
 	border-top: 5px solid #f96900;
@@ -54,11 +64,15 @@ header {
 	border: 1px solid #fff;
 	/* border-color: #fff; */
     text-align: center;
-    font-size: 2rem;
+    /* font-size: 1.2rem; */
 	
 }
 
+
 /* end of header */
 
+/* start Section About Us */
 
 
+
+/* end of  Section About Us */
